@@ -5,8 +5,7 @@ You can find me with [@一朵苏鱼](https://http://weibo.com/p/1005055219077121
 ### Articles
 
 这是我第一次使用GitHub搭建博客
-```markdown
-Syntax highlighted code block
+
 
 # 这真是一件
 ## 十分困难的
@@ -16,5 +15,4 @@ Syntax highlighted code block
 - 先这样吧
 
 
-[点击](http://wx2.sinaimg.cn/mw690/005HcInfly1fi2p430zbrj30af0ijab2.jpg) and ![我的作品](http://wx2.sinaimg.cn/mw690/005HcInfly1fi2p430zbrj30af0ijab2.jpg)
-```
+ ![我的作品](http://wx2.sinaimg.cn/mw690/005HcInfly1fi2p430zbrj30af0ijab2.jpg)
